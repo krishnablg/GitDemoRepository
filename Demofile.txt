@@ -1,1 +1,1 @@
-hi welcome krishna this is git tutorial
+hi welcome krishna this is git tutorial.next session we will learn some other concepts in git tutorials
